@@ -523,7 +523,7 @@
     background-size: no-repeat;
     position: relative;
     animation: silde 20s ease-in-out infinite;
-    background-image: url("/assets/img/introdu.jpg");
+    background-image: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-4.jpg");
 }
 @keyframes silde{
     33%{
